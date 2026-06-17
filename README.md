@@ -100,8 +100,7 @@ Through this project, I gained hands-on experience in:
 ## 📷 Dashboard Preview
 
 ### Dashboard Overview
-
-
+![image alt](https://github.com/Shyamal90/Pizza_Sales_Dashboard/blob/7a0ffa383ab0bbf0804de2b94373618fe359976b/images/dashboard_pizza_sales.png)
 
 
 ---
